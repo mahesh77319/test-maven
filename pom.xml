@@ -3,8 +3,8 @@
   <build>
     <plugins>
       <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-war-plugin</artifactId>
+        <groupId>juint</groupId>
+        <artifactId>my-project</artifactId>
         <version>3.2.5</version>
         <configuration>
           <archive>
